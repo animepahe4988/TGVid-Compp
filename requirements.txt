@@ -1,5 +1,6 @@
 aiohttp
 python-decouple
+DPYTHON_VERSION=3.12.3
 pyaesni
 psutil
 speedtest-cli

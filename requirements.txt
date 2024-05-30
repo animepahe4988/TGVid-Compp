@@ -1,9 +1,9 @@
 aiohttp
 python-decouple
-DPYTHON_VERSION=3.12.3
-pyaesni
+pyrogram
 psutil
 speedtest-cli
 https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
 lxml_html_clean
+pyaesni

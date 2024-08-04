@@ -1,3 +1,4 @@
+pyroblack
 aiohttp
 python-decouple
 psutil
